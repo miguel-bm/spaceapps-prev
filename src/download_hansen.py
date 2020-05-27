@@ -56,13 +56,10 @@ def download_granule(coords, layer, destination, url_dict, redownload=False):
 def download_list(coords_list: list, layer: str, destination, url_dict: dict):
     for coords in coords_list:
         print(f"Downloading data for layer {layer} at coordinates {coords}...")
-        try:
-            download_granule(
-                coords, layer=layer, destination=destination, url_dict=urls, redownload=False
-            )
-            print(f"Complete!")
-        except:
-            print(f"Download failed! D:")
+        download_granule(
+            coords, layer=layer, destination=destination, url_dict=url_dict, redownload=False
+        )
+        print(f"Complete!")
     print(f"Finished download queue :D")
 
 
