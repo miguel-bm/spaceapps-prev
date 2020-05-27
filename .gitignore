@@ -1,0 +1,4 @@
+data/hansen/*
+
+# Exceptions
+!data/hansen/.gitkeep
