@@ -1,5 +1,7 @@
 data/hansen/*
+data/earthenv/*
 nasa.pem
 
 # Exceptions
 !data/hansen/.gitkeep
+!data/earthenv/.gitkeep
