@@ -19,14 +19,14 @@ A successful model for epidemics prediction should take into consideration how p
 The key steps in the progression of contagion are the introduction (stage 1 to stage 2) and dissemination (stage 2 to stage 3). When addressing the introduction step, the model needs to address the fundamental role of pathogens biology in emergence. It refers to the number and the kind of pathogens people are exposed to but also which and how these can successfully cross the species barrier and further counteract humans immunity. Given the obvious rapid variation of these parameters, it is challenging to monitor every single one of them and a complete compilation of pathogens that have been able to cross the species barrier is not available. However, there is scientific evidence that provides insight into two important facts to understanding the complexity of the problem. 50% of the approx. 1000 species of livestock and pets’ pathogens are zoonotic, which means the species barrier between these and humans can be systematically breached and therefore humans can become infected. Secondly,  50% of the human pathogens can infect other vertebrates, mainly mammalian and avian species. Such figures indicate that around 1000 human helminths, 70% protozoa, 50% bacteria, 40% fungi and 80% of human viruses are zoonotic. Invertebrates play a role as reservoirs, vectors, or as part of the life cycle of certain parasites.  It is important to notice that zoonotic pathogens, or those which became so, can transfer from animals to humans but this is not the only direction of the contagion. Potentially, humans can transfer the virus to animals, and animals can infect other animals before going back to infect humans. This feature allows for quicker evolution and eventually enhanced pathogenicity. Out of the approx. 400 emerging pathogens, only 100 (25%) can infect humans exclusively, and so specialisation is not widespread. Over 60 % of these emerging pathogens are zoonotic, and the remaining 15% is not yet determined whether they may or may not infect humans as well. The proportion will depend on the number of new discoveries but also and fundamentally on the capacity to exploit new routes of colonization and transmission (FIG. 1)
 
 
-![Figure 1](img/page2.png)
+![Figure 1](img/Page2.png)
 
 
 ## Sub appendix
 
 Another important factor to take into consideration is the nature of stage 2 in epidemic emergence. Certain viruses do not require undergoing stage 2 because their capacity to infect humans becomes very successful. In such cases, once the virus has evolved to colonise humans, the contagion spreads rapidly instead of remaining in localised hotspots for a period.  It was the case for ebola virus versus SARS-CoV-2, where the former efficiently acquired the ability to infect humans and did not remain in a single contagion area for long. (FIG. 2)
 
-![Figure 2](img/page1.png)
+![Figure 2](img/Page1.png)
 
 # The Tool
 
